@@ -1,0 +1,23 @@
+body {
+    background-image: url("peepe1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header
+{
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+}
+h1
+{
+    text-align: center;
+    background-color: aqua;
+    color:red;
+    font-family: 'Indie Flower', cursive;
+}
+body
+{
+    color:white;
+    font-family: 'Indie Flower', cursive;
+}
